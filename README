@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4491
+
+This is a possibly crazy project to extend the python interface of vim to the point where it's possible to write plugins in pure python (without using eval or command or knowing any vimscript, really).
+
+It's very much work in progress at the moment, and this upload is just here to support plugins that use it, currently just vimscript #4492
+
+It doesn't do anything by itself and it's not in a state where anyone else can build anything on top.
+
+If you are curious, you can have a look at the code on github, too: https://github.com/nielsmadan/venom
+
